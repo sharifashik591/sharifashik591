@@ -5,9 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Data Analyst** specializing in **Product & Growth**, with over 2+ years of experience leveraging **machine learning** and **business intelligence** tools to unlock data insights and drive business growth. I have a strong background in **data management**, **BI automation**, and **data-driven decision-making**. 
-
-I enjoy collaborating with cross-functional teams to transform complex data into actionable business strategies that improve product outcomes and fuel business expansion.
+**Product & Data Analyst** with 3+ years of experience in building **automated data pipelines**, performing advanced **SQL & Python** analysis, and delivering actionable insights through real-time **BI dashboards**. Skilled in end-to end **data project execution**, from requirement gathering to **QA testing** and **stakeholder reporting**. Strong track record in process **optimization, forecasting, and cross-functional** collaboration 
 
 ---
 
