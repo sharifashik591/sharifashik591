@@ -1,4 +1,3 @@
----
 ## 🚀 Featured Project
 
 ### [AI-Powered Business Intelligence Platform](https://github.com/sharifashik591/AI-Powered-Business-Intelligence-Platform)
@@ -8,11 +7,6 @@ The system integrates data analysis, data engineering, data warehousing, machine
 learning, API deployment, and Power BI dashboards.**
 
 * [View Repository](https://github.com/sharifashik591/AI-Powered-Business-Intelligence-Platform)
----
-
-
-
-
 
 
 # Sharif Ashik Ishtiak
