@@ -1,14 +1,3 @@
-## 🚀 Featured Project
-
-### [AI-Powered Business Intelligence Platform](https://github.com/sharifashik591/AI-Powered-Business-Intelligence-Platform)
-**An end‑to‑end Business Intelligence project that simulates how modern
-companies transform raw operational data into predictive insights.\
-The system integrates data analysis, data engineering, data warehousing, machine
-learning, API deployment, and Power BI dashboards.**
-
-* [View Repository](https://github.com/sharifashik591/AI-Powered-Business-Intelligence-Platform)
-
-
 # Sharif Ashik Ishtiak
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/sharif-ashik) 
@@ -18,7 +7,17 @@ learning, API deployment, and Power BI dashboards.**
 
 **Product & Data Analyst** with 3+ years of experience in building **automated data pipelines**, performing advanced **SQL & Python** analysis, and delivering actionable insights through real-time **BI dashboards**. Skilled in end-to end **data project execution**, from requirement gathering to **QA testing** and **stakeholder reporting**. Strong track record in process **optimization, forecasting, and cross-functional** collaboration 
 
----
+
+## Featured Project
+
+### [AI-Powered Business Intelligence Platform](https://github.com/sharifashik591/AI-Powered-Business-Intelligence-Platform)
+**An end‑to‑end Business Intelligence project that simulates how modern
+companies transform raw operational data into predictive insights.\
+The system integrates data analysis, data engineering, data warehousing, machine
+learning, API deployment, and Power BI dashboards.**
+
+* [View Repository](https://github.com/sharifashik591/AI-Powered-Business-Intelligence-Platform)
+
 
 ## 🛠️ Skills & Tools
 
